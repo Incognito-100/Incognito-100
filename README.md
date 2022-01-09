@@ -1,10 +1,17 @@
-# README.md
-<h1 align="center">hello im Izak</h1>
-<h3 align="center">random dude who codes because why not.</h3>
+### Hi there, I'm izak 👋
+# I'm a self taught ewDeveloper
+- 🌱 I’m currently learning C#
+- python
+- ts
+<br />
 
--   currently learning python 
--   want to learn Java
+### Languages and Tools:
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Incognito-100&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Incognito-100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Incognito-100&show_icons=true&theme=dracula&locale=en" alt="Incognito-100" /></p>
+<br />
+<br />
+[![Izak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Incognito-100)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognito-100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
