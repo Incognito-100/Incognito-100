@@ -1,5 +1,5 @@
 ### Hi there, I'm izak 👋
-# I'm a self taught ewDeveloper
+# I'm a self taught Developer
 - 🌱 I’m currently learning C#
 - python
 - ts
