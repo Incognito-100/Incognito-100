@@ -16,4 +16,5 @@
 
 ![Izak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Incognito-100)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognito-100)
+![Top Langs](https://github-readme-stats-git-master-incognito-100.vercel.app/api/top-langs/?username=Incognito-100)
+![Top Langs](https://github-readme-stats-git-master-incognito-100.vercel.app/api/top-langs/?username=Incognito-100)
