@@ -8,8 +8,7 @@
 <a href="https://dev.to/incognito100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="incognito100" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,devto,dotnet,py,visualstudio,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cs,html,css,devto,dotnet,py,visualstudio)
 
 ![Izak's GitHub stats](https://github-readme-stats-steel-beta-48.vercel.app/api?username=Incognito-100)
 
